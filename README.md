@@ -17,4 +17,4 @@ The Pacman ghost controller has 4 buttons, each associated with a direction(up, 
 
 # Fusion 360
 
-The model is shaped like a pacman ghost, have a half capsule shape if viewed from the top. The design is composed of a body and lid with holes for each of the buttons. One hand will hold the left or right side while one hand will handle the directional inputs. The edges are beveled to make it more comfortable to hold. 
+The model is shaped like a pacman ghost, have a half capsule shape if viewed from the top. The design is composed of a body and lid with holes for each of the buttons. One hand will hold the left or right side while one hand will handle the directional inputs. The edges are beveled to make it more comfortable to hold. The lid and body are intended to be glued together.
